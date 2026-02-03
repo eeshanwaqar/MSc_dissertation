@@ -90,7 +90,6 @@ As a result:
 | File | Description |
 |------|------------|
 | `dissertation.pdf` | Full MSc dissertation (public version) |
-| `summary.pdf` | 1-page technical overview for recruiters |
 
 ---
 
